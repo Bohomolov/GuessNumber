@@ -1,3 +1,5 @@
+import guessNumber.GuessNumber;
+
 public class Main {
     public static void main(String[] args) {
         GuessNumber guessNumber = new GuessNumber();
